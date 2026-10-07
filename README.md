@@ -45,3 +45,7 @@ Measured locally with mmap (16 threads): about 1,300 req/s at 16 or more concurr
 ## Data
 
 Map data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright), available under the [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/). The routing graph in the image is derived from the [Geofabrik](https://download.geofabrik.de/) extracts of that data and is distributed under the same license.
+
+## License
+
+The code in this repository is licensed under the [BSD 2-Clause License](LICENSE). The map data is under the ODbL, as described above.
