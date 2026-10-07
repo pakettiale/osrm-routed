@@ -41,3 +41,7 @@ Measured locally with mmap (16 threads): about 1,300 req/s at 16 or more concurr
 ./rebuild.sh            # regenerate data/ from fresh Geofabrik extracts
 ./release.sh [version]  # push :latest and :<version> (default data/VERSION) to GHCR
 ```
+
+## Data
+
+Map data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright), available under the [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/). The routing graph in the image is derived from the [Geofabrik](https://download.geofabrik.de/) extracts of that data and is distributed under the same license.
